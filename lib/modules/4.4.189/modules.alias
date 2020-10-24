@@ -147,6 +147,7 @@ alias usb:v07B8p8179d*dc*dsc*dp*ic*isc*ip*in* 8188eu
 alias usb:v0BDAp0179d*dc*dsc*dp*ic*isc*ip*in* 8188eu
 alias usb:v0BDAp8179d*dc*dsc*dp*ic*isc*ip*in* 8188eu
 alias usb:v0BDApF179d*dc*dsc*dp*icFFiscFFipFFin* 8188fu
+alias usb:v0BDApB720d*dc*dsc*dp*icFFiscFFipFFin* 8723bu
 alias usb:v03EBp7615d*dc*dsc*dp*ic*isc*ip*in* at76c50x_usb
 alias usb:v1557p0002d*dc*dsc*dp*ic*isc*ip*in* at76c50x_usb
 alias usb:v1690p0701d*dc*dsc*dp*ic*isc*ip*in* at76c50x_usb
@@ -938,8 +939,6 @@ alias usb:v2001p331Cd*dc*dsc*dp*icFFiscFFipFFin* 88x2bu
 alias usb:v13B1p0043d*dc*dsc*dp*icFFiscFFipFFin* 88x2bu
 alias usb:v0BDApB812d*dc*dsc*dp*icFFiscFFipFFin* 88x2bu
 alias usb:v0BDApB82Cd*dc*dsc*dp*icFFiscFFipFFin* 88x2bu
-alias usb:v7392pA611d*dc*dsc*dp*icFFiscFFipFFin* 8723bu
-alias usb:v0BDApB720d*dc*dsc*dp*icFFiscFFipFFin* 8723bu
 alias sdio:c*v6666d1111* esp8089
 alias usb:v0586p401Ad*dc*dsc*dp*ic*isc*ip*in* rtl8150
 alias usb:v1557p8150d*dc*dsc*dp*ic*isc*ip*in* rtl8150

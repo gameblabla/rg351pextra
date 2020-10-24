@@ -158,6 +158,7 @@ kernel/drivers/input/misc/gpio_matrix.ko
 kernel/drivers/input/misc/gpio_input.ko
 kernel/drivers/input/misc/gpio_output.ko
 kernel/drivers/input/misc/gpio_axis.ko
+kernel/drivers/input/misc/rk8xx-pwrkey.ko
 kernel/drivers/input/misc/uinput.ko
 kernel/drivers/iommu/iova.ko
 kernel/drivers/leds/led-class.ko
