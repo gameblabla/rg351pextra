@@ -24,7 +24,6 @@ kernel/drivers/net/wireless/ti/wl1251/wl1251.ko:
 kernel/drivers/net/wireless/ti/wl18xx/wl18xx.ko: kernel/drivers/net/wireless/ti/wlcore/wlcore.ko
 kernel/drivers/net/wireless/rockchip_wlan/rtl8188eu/8188eu.ko:
 kernel/drivers/net/wireless/rockchip_wlan/rtl8188fu/8188fu.ko:
-kernel/drivers/net/wireless/rockchip_wlan/rtl8723bu/8723bu.ko:
 kernel/drivers/net/wireless/at76c50x-usb.ko:
 kernel/drivers/net/wireless/hostap/hostap.ko: kernel/net/wireless/lib80211.ko
 kernel/drivers/net/wireless/b43/b43.ko: kernel/drivers/bcma/bcma.ko kernel/drivers/ssb/ssb.ko
@@ -59,6 +58,7 @@ kernel/drivers/net/wireless/rsi/rsi_usb.ko: kernel/drivers/net/wireless/rsi/rsi_
 kernel/drivers/net/wireless/rtl8812au/rtl8812au.ko:
 kernel/drivers/net/wireless/rtl8192cu/8192cu.ko:
 kernel/drivers/net/wireless/rtl88x2bu/88x2bu.ko:
+kernel/drivers/net/wireless/ew-7611ulb/8723bu.ko:
 kernel/drivers/net/wireless/esp8089/esp8089.ko:
 kernel/drivers/net/usb/rtl8150.ko:
 kernel/drivers/net/usb/r8152.ko: kernel/drivers/net/mii.ko
@@ -127,6 +127,7 @@ kernel/drivers/input/joystick/twidjoy.ko: kernel/drivers/input/serio/serio.ko
 kernel/drivers/input/joystick/warrior.ko: kernel/drivers/input/serio/serio.ko
 kernel/drivers/input/joystick/xpad.ko:
 kernel/drivers/input/joystick/zhenhua.ko: kernel/drivers/input/serio/serio.ko
+kernel/drivers/input/misc/rk8xx-pwrkey.ko:
 kernel/drivers/i2c/muxes/i2c-arb-gpio-challenge.ko:
 kernel/drivers/i2c/muxes/i2c-mux-gpio.ko:
 kernel/drivers/bluetooth/hci_vhci.ko:

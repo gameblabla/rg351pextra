@@ -128,6 +128,7 @@ kernel/drivers/input/joystick/twidjoy.ko
 kernel/drivers/input/joystick/warrior.ko
 kernel/drivers/input/joystick/xpad.ko
 kernel/drivers/input/joystick/zhenhua.ko
+kernel/drivers/input/misc/rk8xx-pwrkey.ko
 kernel/drivers/i2c/muxes/i2c-arb-gpio-challenge.ko
 kernel/drivers/i2c/muxes/i2c-mux-gpio.ko
 kernel/drivers/bluetooth/hci_vhci.ko
